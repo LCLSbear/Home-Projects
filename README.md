@@ -1,1 +1,1 @@
-Linux Terminal Snowfall on Terminal animation
+Linux Snowfall on Terminal animation
